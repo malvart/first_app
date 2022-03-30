@@ -1,0 +1,14 @@
+.post{
+  border: 1px solid;
+  width: 40%;
+  margin-top: 5px;
+  padding: 5px 20px;
+}
+
+.post-date{
+  color: gray;
+}
+
+.post-content{
+  padding-left: 10px;
+}
